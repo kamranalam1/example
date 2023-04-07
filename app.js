@@ -5,7 +5,7 @@ if (age <=10) {
     console.log("YOURE NOT ALLOWED !")
 }
 
-let table = +prompt("Enter Your Table")
+let table = +prompt("Enter your Desire Table")
 for (let i = 1; i <=10; i++){
         console.log(table + " x " + i + " = " + table*i);
 }
